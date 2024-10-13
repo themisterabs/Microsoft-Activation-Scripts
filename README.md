@@ -1,4 +1,4 @@
-<p align="center"><img src="[https://i.postimg.cc/MH0VXtTm/White-and-Red-Modern-Initial-AB-Logo.png](https://postimg.cc/8f5j0RL7)" alt="MAS Logo"></p>
+<p align="center"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR7tDIgGwiVPRU1oyU3ffqGOdhz7dsQw8qbOF1zGaXhyphenhyphenvs00kWgOLOQw58jZyGUosMIqe3H5Nbh5r4X9ur_cMAnVpa-f2ex8xbuGLBSZiHUAflkYWP5l2PXR0VhvSJrhZxHANYP-iHDn_FxpfxeBHRghcrsBAp1TZ5hIocgbrc6KI/s220/White%20and%20Red%20Modern%20Initial%20AB%20Logo.png" alt="MAS Logo"></p>
 
 <h1 align="center">Microsoft  Activation  Scripts (ABS)</h1>
 
