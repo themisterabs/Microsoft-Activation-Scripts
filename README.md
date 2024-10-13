@@ -32,7 +32,7 @@ irm https://massgrave.dev/get | iex
 
 ### Method 2 - Traditional (Windows 7 and later)
 
-1.   Download the file under the code button from [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [Azure DevOps](https://dev.azure.com/massgrave/_git/Microsoft-Activation-Scripts) / [Self-hosted Git](https://git.activated.win/massgrave/Microsoft-Activation-Scripts)
+1.   Download the file under the code button from [GitHub](https://github.com/themisterabs/Microsoft-Activation-Scripts) / [Azure DevOps](https://dev.azure.com/massgrave/_git/Microsoft-Activation-Scripts) / [Self-hosted Git](https://git.activated.win/massgrave/Microsoft-Activation-Scripts)
 2.   Right-click on the downloaded zip file and extract
 3.   In the extracted folder, find the folder named `All-In-One-Version`
 4.   Run the file named `MAS_AIO.cmd`
@@ -47,8 +47,6 @@ To run the scripts in unattended mode, check [here](https://massgrave.dev/comman
 Latest Version: 2.7
 Release date: 6-Sep-2024
 ```
-
-### [Troubleshooting / Help](https://massgrave.dev/troubleshoot)
 ### [Download Original Windows & Office](https://massgrave.dev/genuine-installation-media)
 ### Homepage - [https://massgrave.dev/](https://massgrave.dev/)
 
