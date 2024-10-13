@@ -1,4 +1,4 @@
-<p align="center"><img src="https://massgrave.dev/img/logo_small.png" alt="MAS Logo"></p>
+<p align="center"><img src="https://i.postimg.cc/MH0VXtTm/White-and-Red-Modern-Initial-AB-Logo.png" alt="MAS Logo"></p>
 
 <h1 align="center">Microsoft  Activation  Scripts (ABS)</h1>
 
