@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.postimg.cc/MH0VXtTm/White-and-Red-Modern-Initial-AB-Logo.png" alt="MAS Logo"></p>
+<p align="center"><img src="[https://i.postimg.cc/MH0VXtTm/White-and-Red-Modern-Initial-AB-Logo.png](https://postimg.cc/8f5j0RL7)" alt="MAS Logo"></p>
 
 <h1 align="center">Microsoft  Activation  Scripts (ABS)</h1>
 
